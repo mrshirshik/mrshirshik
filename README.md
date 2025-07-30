@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Kishan Shirshik K
 
+![Banner](https://github.com/mrshirshik/mrshirshik/assets/banner.png)
+
 **Full Stack Developer | MERN & FastAPI | AI & Cloud Integration Enthusiast**
 
 I'm a passionate full stack developer currently pursuing B.Tech in Computer Science and Engineering at Woxsen University. I specialize in building **cloud-native web applications** and **AI-powered tools** that solve real-world problems through technology.
@@ -48,12 +50,33 @@ I love blending scalable backend systems with clean, modern frontends. My recent
 
 ---
 
+## 📊 GitHub Stats
+
+![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshirshik&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshirshik&layout=compact&theme=radical)
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 **Email:** Kishan.Shirshik_2026@woxsen.edu.in  
 - 🔗 **GitHub:** [@mrshirshik](https://github.com/mrshirshik)  
 - 💼 **LinkedIn:** [linkedin.com/in/mrshirshik](https://linkedin.com/in/mrshirshik)  
 - 📸 **Instagram:** [@theshirshik](https://www.instagram.com/theshirshik)
+
+---
+
+## 🧠 Badges
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
