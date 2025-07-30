@@ -97,8 +97,9 @@ Percentage: 97.8%
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshirshik&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshirshik&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrshirshik&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshirshik&layout=compact&theme=tokyonight)
+
 
 ---
 
