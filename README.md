@@ -105,7 +105,7 @@ Percentage: 97.8%
 
 ## Connect With Me
 
-- **Email:** Kishan.Shirshik_2026@woxsen.edu.in  
+- **Email:** kishanshirshikk@gmail.com  
 - **GitHub:** [@mrshirshik](https://github.com/mrshirshik)  
 - **LinkedIn:** [linkedin.com/in/mrshirshik](https://linkedin.com/in/mrshirshik)  
 - **Instagram:** [@theshirshik](https://www.instagram.com/theshirshik)
