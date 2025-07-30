@@ -1,7 +1,5 @@
 # Kishan Shirshik K
 
-![Banner](https://github.com/mrshirshik/mrshirshik/assets/banner.png)
-
 **Full Stack Developer | MERN & FastAPI | AI & Cloud Integration Enthusiast**
 
 ---
@@ -11,6 +9,22 @@
 I am currently pursuing a B.Tech in Computer Science and Engineering at Woxsen University, where I focus on developing scalable, AI-powered, and cloud-native web applications. My work bridges modern frontend frameworks with robust backend systems and integrates machine learning pipelines to solve real-world challenges efficiently.
 
 I am enthusiastic about deploying systems on the cloud, automating workflows, and contributing to impactful open-source projects. With experience ranging from CRM development to blockchain-based applications and mental health tools, I bring a versatile and purpose-driven approach to development.
+
+---
+
+## Education
+
+**B.Tech in Computer Science and Engineering**  
+Woxsen University, Hyderabad | 2022 – 2026  
+CGPA: 3.01 / 4.0  
+
+**Senior Secondary (12th Grade)**  
+Excel Academics, Kolar | CBSE | 2020 – 2022  
+Percentage: 82.5%  
+
+**Secondary School (10th Grade)**  
+Chinmaya Vidyalaya High School, Kolar | KSEEB | 2007 – 2020  
+Percentage: 97.8%
 
 ---
 
@@ -26,12 +40,38 @@ I am enthusiastic about deploying systems on the cloud, automating workflows, an
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, Java, SQL  
-**Frontend:** React.js, Tailwind CSS, Vite  
-**Backend:** Node.js, FastAPI, Express.js, REST APIs, Prisma  
-**Databases:** MongoDB, MySQL, Firebase  
-**AI/ML:** TensorFlow, Keras, Scikit-learn, NLP, OpenAI  
-**Tools:** Docker, Git, Jupyter, AWS, Power BI
+### Frontend Development
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks:** React, Next.js, Vite
+- **Styling:** Tailwind CSS, Framer Motion
+
+### Backend Development
+- **Runtime:** Node.js
+- **Frameworks:** Express.js, Flask, Django
+
+### Database & Storage
+- **Databases:** MongoDB, PostgreSQL, SQLite
+- **Cloud:** Firebase, Supabase, NeonDB
+- **Tools:** Prisma, Redis
+
+### Programming Languages
+- JavaScript/TypeScript
+- Python
+- Java
+- Kotlin
+
+### AI & Machine Learning
+- TensorFlow
+- OpenAI API
+- Google Gemini AI
+- Computer Vision
+- Natural Language Processing (NLP)
+
+### Development Tools
+- Git & GitHub
+- Docker
+- Webpack
+- Web Speech API
 
 ---
 
@@ -64,10 +104,10 @@ I am enthusiastic about deploying systems on the cloud, automating workflows, an
 
 ## Connect With Me
 
-- Email: **Kishan.Shirshik_2026@woxsen.edu.in**  
-- GitHub: [@mrshirshik](https://github.com/mrshirshik)  
-- LinkedIn: [linkedin.com/in/mrshirshik](https://linkedin.com/in/mrshirshik)  
-- Instagram: [@theshirshik](https://www.instagram.com/theshirshik)
+- **Email:** Kishan.Shirshik_2026@woxsen.edu.in  
+- **GitHub:** [@mrshirshik](https://github.com/mrshirshik)  
+- **LinkedIn:** [linkedin.com/in/mrshirshik](https://linkedin.com/in/mrshirshik)  
+- **Instagram:** [@theshirshik](https://www.instagram.com/theshirshik)
 
 ---
 
