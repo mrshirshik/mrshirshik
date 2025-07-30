@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kishan Shirshik K
 
-![Banner](https://github.com/mrshirshik/mrshirshik/assets/banner.png)
+!۰(https://github.com/mrshirshik/mrshirshik/assets/banner.png)
 
 **Full Stack Developer | MERN & FastAPI | AI & Cloud Integration Enthusiast**
 
