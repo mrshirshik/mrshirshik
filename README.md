@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Kishan Shirshik K
 
+---
+
 🖥️ About Me
 
 **Full Stack Developer | MERN & FastAPI | AI & Cloud Integration Enthusiast**
